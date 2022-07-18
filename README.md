@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'></a>
+</div>
+<h1 align="center">Hi 👋, I'm Shivam Savita(Shiv)</h1> 
+<h3 align="center">A passionate Android App Developer and Advance Java and  Kotlin learner from India</h3>
+</p>
 
-<!--
-**ShivShrivas/shivshrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 My First Blog is [ThePdfSite(http://thepdfsite.blogspot.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: Second Year CSE student at [DREC](http://www.drce.org/) 
+
+<!-- - 🔭 I’m currently working on  **Android Development** -->
+
+
+<!-- - 🤔 I’m looking for help with Data Structures and Algorithms 😭 -->
+
+- 💬 Ask me about anything, I am happy to help
+- 👨‍💻 All of my projects are available at [https://github.com/ShivShrivas](https://github.com/ShivShrivas)
+- but some are private(Sorry for that)
+
+- 📫 How to reach me **shivamsavita2000@gmail.com**
+
+- ⚡ Languages:  **Java | Kotlin | Asp.net core**
+
+- 👨‍💼 <a href="https://www.linkedin.com/in/shivamsavita/" target="_blank" rel="nofollow">Linkedin</a>
+
+ 
+
+
+
