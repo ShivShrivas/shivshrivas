@@ -1,5 +1,5 @@
 <div align="center">
-  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'></a>
+  <img align='right' src='https://raw.githubusercontent.com/Apurva-tech/Apurva-tech/output/github-contribution-grid-snake.svg' width='200"'></a>
 </div>
 <h1 align="center">Hi 👋, I'm Shivam Savita(Shiv)</h1> 
 <h3 align="center">A passionate Android App Developer and Advance Java and  Kotlin learner from India</h3>
