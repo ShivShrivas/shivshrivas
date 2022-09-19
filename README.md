@@ -1,6 +1,3 @@
-<div align="center">
-  <img align='center' src='https://raw.githubusercontent.com/Apurva-tech/Apurva-tech/output/github-contribution-grid-snake.svg' width='100%"'></a>
-</div>
 <h1 align="center">Hi 👋, I'm Shivam Savita(Shiv)</h1> 
 <h3 align="center">A passionate Android App Developer and Advance Java and  Kotlin learner from India</h3>
 </p>
@@ -24,6 +21,10 @@
 - ⚡ Languages:  **Java | Kotlin | Asp.net core**
 
 - 👨‍💼 <a href="https://www.linkedin.com/in/shivamsavita/" target="_blank" rel="nofollow">Linkedin</a>
+
+<div align="center">
+  <img align='center' src='https://raw.githubusercontent.com/Apurva-tech/Apurva-tech/output/github-contribution-grid-snake.svg' width='100%"'></a>
+</div>
 
  
 
