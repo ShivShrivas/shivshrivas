@@ -22,9 +22,7 @@
 
 - 👨‍💼 <a href="https://www.linkedin.com/in/shivamsavita/" target="_blank" rel="nofollow">Linkedin</a>
 
-<div align="center">
-Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shivamsavita
-</div>
+
 
  
 
