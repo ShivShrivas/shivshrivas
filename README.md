@@ -23,7 +23,7 @@
 - 👨‍💼 <a href="https://www.linkedin.com/in/shivamsavita/" target="_blank" rel="nofollow">Linkedin</a>
 
 <div align="center">
-  <img align='center' src='https://raw.githubusercontent.com/Apurva-tech/Apurva-tech/output/github-contribution-grid-snake.svg' width='100%"'></a>
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shivamsavita
 </div>
 
  
