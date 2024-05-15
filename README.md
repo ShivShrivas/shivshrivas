@@ -5,9 +5,9 @@
 
 - 🌱 My First Blog is [ThePdfSite(http://thepdfsite.blogspot.com/)
 
-- :school: Second Year CSE student at [DREC](http://www.drce.org/) 
+- :school: Final Year CSE student at [DREC](http://www.drce.org/) 
 
-<!-- - 🔭 I’m currently working on  **Android Development** -->
+<!-- - 🔭 I’m currently working on  **Mobile Application Development** -->
 
 
 <!-- - 🤔 I’m looking for help with Data Structures and Algorithms 😭 -->
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shivamsavita2000@gmail.com**
 
-- ⚡ Languages:  **Java | Kotlin | Asp.net core**
+- ⚡ Languages:  **Java | Kotlin | Asp.net core | Flutter | React Nativ**
 
 - 👨‍💼 <a href="https://www.linkedin.com/in/shivamsavita/" target="_blank" rel="nofollow">Linkedin</a>
 
